@@ -1,4 +1,4 @@
-# Electronic Lab
+# Electronics Experiments
 ## 2021 Fall
 
 ## 2022 Spring
