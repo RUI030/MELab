@@ -1,4 +1,4 @@
-# MicroElectronic Lab
+# Electronic Lab
 ## 2021 Fall
 
 ## 2022 Spring
